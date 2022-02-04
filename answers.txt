@@ -18,3 +18,5 @@ CMPUT404W22 lab4 dchu
         Change <int:question_id> to <str:question_id>/
 
 7.      the urls are dynamic therefore we need a way to assign urls from django
+
+8.      using generic views allows us to easily make variations or clones of views
