@@ -1,3 +1,20 @@
 CMPUT404W22 lab4 dchu
 
-1.
+1.      https://github.com/Pegmode/cmput404-lab4
+
+2.      The install worked successfully! Congratulations!
+        You are seeing this page because DEBUG=True is in your settings file and you have not configured any URLs.
+
+3.      404 page and a page that says "Hello, world. You're at the polls index." respectively
+
+4.      A migration propgates changes from your model to your database. We need them to have changes made in our model to be automatically reflected in the database
+
+5.      After logging into the admin page, the option to modify the poll models
+
+6.      You're looking at question 38.
+        You're looking at the results of question 38.
+        You're voting on question 38.
+        404 page
+        Change <int:question_id> to <str:question_id>/
+
+7.      the urls are dynamic therefore we need a way to assign urls from django
