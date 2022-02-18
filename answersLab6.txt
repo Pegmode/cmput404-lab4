@@ -1,0 +1,22 @@
+	
+1.
+
+        -Directly through heroku Git through heroku CLI
+
+        -GitHub integration on a specific branch manually or automatically on main/master
+
+        -through a container registery with heroku CLI
+
+
+
+2.
+
+        A Procfile tells heroku what actions to take or what commands to run
+
+        when starting the server remotely.
+
+    
+
+3.
+
+        https://lab6cmput404dchu.herokuapp.com/
